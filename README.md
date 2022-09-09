@@ -3,3 +3,6 @@ I'm working on a fake webinar advert site. The main idea is Luke Skywalker's is 
 **Main Goals**
 Create a responisive site for both desktop and mobile.
 Create a pleasing design with a StarWars/Space theme.
+
+**Optional**
+Create a fuctional save state or local state for the form data
